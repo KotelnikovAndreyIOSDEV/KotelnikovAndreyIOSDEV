@@ -57,3 +57,28 @@ iOS Developer
 <a align="left">
 <a href="https://t.me/AndreyKotelnikovIOSDEV" target="blank"><img align="center" src="https://user-images.githubusercontent.com/49933115/139837223-bf23d3a9-4638-4e17-994a-ac8678d5f517.png" alt="https://t.me/AndreyKotelnikovIOSDEV" height="40" width="40" /></a>
   
+Programming learning
+SwiftBook
+
+Book A Mind for Numbers
+
+Book Code Complete
+
+Book "Эссенциализм путь к простоте"
+
+YouT﻿ube Ian Solomein: "Basics of Swift"
+
+YouT﻿ube Alex Skutarenko: "Basics"
+
+YouT﻿ube iCode School: "IOS Developer Course"
+
+YouT﻿ube The Swift Developers: "Swift (for beginer) / "UIKit"
+
+YouT﻿ube CodeWithChris
+
+YouT﻿ube Art Kirillov: Design patterns
+
+YouTube Vyacheslav Belyi: Basic principles in the Swift
+
+YouT﻿ube SimpleDEV and others
+
